@@ -73,9 +73,6 @@ button:hover {
   border: 1px solid #bcd0e5;
   border-radius: 4px;
   color: #2f281e;
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 20px;
   cursor: pointer;
 }
 
