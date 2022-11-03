@@ -15,7 +15,7 @@
   flex-direction: column;
   align-items: center;
   height: 550px;
-  background-image: url("../img/../img/bg.svg");
+  background-image: url("../img/bg.svg");
 }
 
 .features > ul {
