@@ -15,8 +15,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 550px;
-  background-image: url("../img/bg.svg");
+  height: 600px;
+  background: url("../img/bg.svg") no-repeat bottom;
 }
 
 .features > ul {
@@ -123,8 +123,7 @@ input {
 }
 
 input:focus {
-  outline: none;
-  border: 1px solid #ff9900;
+  outline: solid 1px #ff9900;
 }
 
 #input-label {
